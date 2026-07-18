@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Apple billing support
+    url: https://support.apple.com/billing
+    about: Contact Apple about App Store charges, refunds, or payment-method problems.
